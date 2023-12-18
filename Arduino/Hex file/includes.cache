@@ -1,0 +1,22 @@
+[
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "C:\\Users\\Administrador\\Documents\\arduino Versiones comprimidas\\Arduino 1.8.6\\hardware\\arduino\\avr\\cores\\arduino"
+  },
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "C:\\Users\\Administrador\\Documents\\arduino Versiones comprimidas\\Arduino 1.8.6\\hardware\\arduino\\avr\\variants\\mega"
+  },
+  {
+    "Sourcefile": "C:\\Users\\Administrador\\Documents\\Arduino\\HEX Files Arduino\\sketch\\Proyecto_PINO_V2.4.ino.cpp",
+    "Include": "EEPROM.h",
+    "Includepath": "C:\\Users\\Administrador\\Documents\\arduino Versiones comprimidas\\Arduino 1.8.6\\hardware\\arduino\\avr\\libraries\\EEPROM\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\Administrador\\Documents\\Arduino\\HEX Files Arduino\\sketch\\Proyecto_PINO_V2.4.ino.cpp",
+    "Include": "",
+    "Includepath": ""
+  }
+]

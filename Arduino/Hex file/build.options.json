@@ -1,0 +1,10 @@
+{
+  "builtInLibrariesFolders": "C:\\Users\\Administrador\\Documents\\arduino Versiones comprimidas\\Arduino 1.8.6\\libraries",
+  "customBuildProperties": "build.warn_data_percentage=75,runtime.tools.avr-gcc.path=C:\\Users\\Administrador\\Documents\\arduino Versiones comprimidas\\Arduino 1.8.6\\hardware\\tools\\avr,runtime.tools.avrdude.path=C:\\Users\\Administrador\\Documents\\arduino Versiones comprimidas\\Arduino 1.8.6\\hardware\\tools\\avr",
+  "fqbn": "arduino:avr:mega:cpu=atmega2560",
+  "hardwareFolders": "C:\\Users\\Administrador\\Documents\\arduino Versiones comprimidas\\Arduino 1.8.6\\hardware,C:\\Users\\Administrador\\AppData\\Local\\Arduino15\\packages",
+  "otherLibrariesFolders": "C:\\Users\\Administrador\\Documents\\Arduino\\libraries",
+  "runtime.ide.version": "10806",
+  "sketchLocation": "C:\\Users\\Administrador\\Desktop\\SAICON_PC\\PROYECTOS\\Puerta automatica_PINO\\Van\\2022\\Programación_PINO\\Proyecto_PINO_V2.4\\Proyecto_PINO_V2.4.ino",
+  "toolsFolders": "C:\\Users\\Administrador\\Documents\\arduino Versiones comprimidas\\Arduino 1.8.6\\tools-builder,C:\\Users\\Administrador\\Documents\\arduino Versiones comprimidas\\Arduino 1.8.6\\hardware\\tools\\avr,C:\\Users\\Administrador\\AppData\\Local\\Arduino15\\packages"
+}
